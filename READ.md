@@ -1,0 +1,3 @@
+Donation_contract_Address = 0x16Db51DB1FE03D043b3857179d4Ec4E41001667a
+
+PriceConverter_Address = 0x6ad469bc093a987c4E539674854DB9f7Ab8B4d47
