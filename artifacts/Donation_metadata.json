@@ -136,11 +136,11 @@
 	},
 	"sources": {
 		"Donation.sol": {
-			"keccak256": "0x24fcecf796e0e940d392f3d768b0df64f1f90e4f98a0dc351e1cccfadb8c072a",
+			"keccak256": "0x75ebfeb324aa556e7c3a283cede3f6fd7b08f731612d6e074552ba8915d714c6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4bee650f0e33c91d0e32484af52111a6f729136a58f195c58b0a21c0eb47c234",
-				"dweb:/ipfs/QmXBSTAFPHh7sD6C1TFYwrvoecEtBP7TreDmhrZzkLopCt"
+				"bzz-raw://fbbbf468135c9061b292c96569ba01da21ed0f5fb4badb3be0b6dc56c1c556b6",
+				"dweb:/ipfs/QmY2XWEaaKuhdC8TiBcjmiTTW72VsS8ZJYPrZGRUUmm4tk"
 			]
 		},
 		"PriceConverter.sol": {
